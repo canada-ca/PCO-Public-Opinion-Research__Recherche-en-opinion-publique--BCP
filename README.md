@@ -36,7 +36,7 @@ Des suites d’une rétroaction nous disant que ce n’était pas possible, nous
  
 1. Notre rayonnement au sein de la communauté des développeurs semble être plus étendu que prévu (au-delà des membres avec qui nous transigions)
 2. Un nombre de développeurs avaient élaboré une proposition (complète ou partielle) 
-3. Malgré l’annulation, certains développeurs ont présenté une soumission. (à titre de solution de rechange)
+3. Malgré l’annulation, certains développeurs ont présenté une soumission. 
  
 L'information ci-dessus nous a permis de déterminer que cette opportunité n’aurait pas dû être annulée; nous avons donc pris la décision de la réitérer. A cet effet, nous avons prolongé la date limite au 22 janvier 2018. Nous n'avons pas ajusté la portée du travail car nous voulons examiner toutes les propositions de manière équitable (celles qui ont déjà été présentées et celles qui seront présentées au cours de la semaine prochaine).
 
