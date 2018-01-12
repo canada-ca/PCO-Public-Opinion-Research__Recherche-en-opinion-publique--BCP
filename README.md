@@ -1,6 +1,6 @@
 **Status update:  January 12, 2018**
 
-After cancelling the [POR opportunity](https://beta.gcdevexchange.org/opportunities/opp-create-accessible-copies-of-reports-and-summary-tables----cr-er-des-copies-accessibles-des-rapports-et-des-tableaux-sommaires) on Wednesday January 10, 2018 due to feedback that a solution was not possible, we have uncovered some new information:
+After cancelling the [POR opportunity - 'Create accessible copies of reports and summary tables'](https://beta.gcdevexchange.org/opportunities/opp-create-accessible-copies-of-reports-and-summary-tables----cr-er-des-copies-accessibles-des-rapports-et-des-tableaux-sommaires) on Wednesday January 10, 2018 due to feedback that a solution was not possible, we have uncovered some new information:
   
 1. Our reach into the developer community was broader than we thought (beyond the community that was engaging on the repo)
 2. A number of developers had prepared proposals (fully or partially). 
@@ -32,7 +32,7 @@ We will work with Procurement to ensure that, in future, suppliers of Public Opi
 
 **Mise à jour – Le 12 janvier 2018**
  
-Des suites d’une rétroaction nous disant que ce n’était pas possible, nous avons annulé, le 10 janvier 2018, [l’occasion contractuelle affichée sur GitHub](https://beta.carrefourproggc.org/opportunities/opp-create-accessible-copies-of-reports-and-summary-tables----cr-er-des-copies-accessibles-des-rapports-et-des-tableaux-sommaires) concernant la recherche sur l’opinion publique. Or, de ce que nous avons pu découvrir depuis, voici les plus récentes informations à notre disposition :
+Des suites d’une rétroaction nous disant que ce n’était pas possible, nous avons annulé, le 10 janvier 2018, [l’occasion contractuelle affichée sur GitHub](https://beta.carrefourproggc.org/opportunities/opp-create-accessible-copies-of-reports-and-summary-tables----cr-er-des-copies-accessibles-des-rapports-et-des-tableaux-sommaires) concernant la création  des copies accessibles des rapports et des tableaux sommaires. Or, de ce que nous avons pu découvrir depuis, voici les plus récentes informations à notre disposition :
  
 1. Notre rayonnement au sein de la communauté des développeurs semble être plus étendu que prévu (au-delà des membres avec qui nous transigions)
 2. Un nombre de développeurs avaient élaboré une proposition (complète ou partielle) 
