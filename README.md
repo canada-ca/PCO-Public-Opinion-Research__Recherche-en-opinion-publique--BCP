@@ -38,7 +38,7 @@ Des suites d’une rétroaction nous disant que ce n’était pas possible, nous
 2. Un nombre de développeurs avaient élaboré une proposition (complète ou partielle) 
 3. Malgré l’annulation, certains développeurs ont présenté une soumission. (à titre de solution de rechange)
  
-L'information ci-dessus nous a permis de déterminer que cette opportunité n’aurait pas dû être annulée; nous avons donc pris la décision de la réitérer. A cet effet, nous avons prolongé la date limite au X janvier/février 2018. Nous n'avons pas ajusté la portée du travail car nous voulons examiner toutes les propositions de manière équitable (celles qui ont déjà été présentées et celles qui seront présentées au cours de la semaine prochaine).
+L'information ci-dessus nous a permis de déterminer que cette opportunité n’aurait pas dû être annulée; nous avons donc pris la décision de la réitérer. A cet effet, nous avons prolongé la date limite au 22 janvier 2018. Nous n'avons pas ajusté la portée du travail car nous voulons examiner toutes les propositions de manière équitable (celles qui ont déjà été présentées et celles qui seront présentées au cours de la semaine prochaine).
 
 Nous sommes extrêmement reconnaissants à tous ceux qui ont commenté et participé à cette opportunité, ainsi qu’au projet CarrefourProgGC qui couvre encore plus de contenu. Travailler de manière rapide et itérative signifie que nous commettrons des erreurs ; nous nous engageons toutefois à en tirer profit afin d’apporter les améliorations qui s’imposent.
  
