@@ -44,7 +44,7 @@ Nous sommes extrêmement reconnaissants à tous ceux qui ont commenté et partic
  
 Si vous avez de nouveaux commentaires à transmettre, nous voulons de vos nouvelles!
 
-Les commentaires sur cette opportunité peuvent être partagés à l’aide du [dépôt sur l’opinion publique]((https://github.com/canada-ca/PCO-Public-Opinion-Research__Recherche-en-opinion-publique--BCP/issues). 
+Les commentaires sur cette opportunité peuvent être partagés à l’aide du [dépôt sur l’opinion publique](https://github.com/canada-ca/PCO-Public-Opinion-Research__Recherche-en-opinion-publique--BCP/issues). 
 
 Les commentaires concernant la plateforme CarrefourProgGC peuvent être transmis via [le dépôt devex](https://github.com/canada-ca/devex/issues). 
 
