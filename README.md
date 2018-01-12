@@ -1,4 +1,5 @@
 **Status update:  January 12, 2018**
+
 After cancelling the [POR opportunity](https://beta.gcdevexchange.org/opportunities/opp-create-accessible-copies-of-reports-and-summary-tables----cr-er-des-copies-accessibles-des-rapports-et-des-tableaux-sommaires) on Wednesday January 10, 2018 due to feedback that a solution was not possible, we have uncovered some new information:
   
 1. Our reach into the developer community was broader than we thought (beyond the community that was engaging on the repo)
