@@ -1,0 +1,1593 @@
+Name,Value,Label
+PROVINCE,1,NF
+PROVINCE,2,NS
+PROVINCE,3,PEI
+PROVINCE,4,NB
+PROVINCE,5,QC
+PROVINCE,6,ON
+PROVINCE,7,MB
+PROVINCE,8,SK
+PROVINCE,9,AB
+PROVINCE,10,BC
+PROVINCE,11,YK
+PROVINCE,12,NT
+PROVINCE,13,NU
+REGION,1,ATL
+REGION,2,QC
+REGION,3,ON
+REGION,4,MB/SK
+REGION,5,ALB
+REGION,6,BC
+AGEGRP,1,18-34 years old
+AGEGRP,2,35-54 years old
+AGEGRP,3,55+ years old
+gender,1,Male
+gender,2,Female
+LANG,1,English
+LANG,2,French
+CELL,1,Landline only
+CELL,2,Cell and landline
+CELL,3,Cell only
+Q1,1,Economy
+Q1,2,Jobs / unemployment
+Q1,3,Environment / climate change
+Q1,4,Health / health care
+Q1,5,Debt / deficit
+Q1,6,Cost of living
+Q1,7,Taxes
+Q1,8,Employment insurance
+Q1,9,Trade / international trade / trade agreements
+Q1,10,Infrastructure (general mention)
+Q1,11,Infrastructure Ð public transit
+Q1,12,Infrastructure Ð roads/highways
+Q1,13,Infrastructure Ð bridges
+Q1,14,Infrastructure Ð other
+Q1,15,Education
+Q1,16,ISIS/Syria/Iraq mission
+Q1,17,Terrorism / security
+Q1,18,Refugees
+Q1,19,Immigration
+Q1,20,Indigenous issues
+Q1,21,Crime
+Q1,22,Drugs/marijuana
+Q1,23,Poverty/homelessness
+Q1,24,Oil / pipelines
+Q1,25,Government service delivery to citizens
+Q1,30,Affordable housing
+Q1,31,Cell phone cost / coverage
+Q1,32,Childcare / daycare
+Q1,33,"Other health care issues (e.g. assisted suicide, abortion)"
+Q1,34,Senior care
+Q1,35,Social services / programs
+Q1,36,Government / political representation
+Q1,43,Values / culture
+Q1,44,Hydro
+Q1,45,Electoral reform
+Q1,46,Pensions
+Q1,47,Honesty / keeping promises
+Q1,48,Renewable / alternative energy
+Q1,49,Minimum wage
+Q1,50,Language issues
+Q1,51,Foreign policy
+Q1,54,Natural resource management
+Q1,55,Families
+Q1,56,Canadians
+Q1,57,Racism
+Q1,58,National unity
+Q1,59,Gender equality
+Q1,60,Ending sale of weapons to the middle east
+Q1,61,Role / recognition of Quebec
+Q1,62,Veteran Affairs
+Q1,63,US Elections
+Q1,64,Canada-US relations
+Q1,65,"RISE OF ENERGY PRICES (ELECTRICITY, HYDRO, GAS/FUEL)"
+Q1,66,"FISCAL RESPONSIBILITY, CONTROL UNNECESSARY SPENDING"
+Q1,67,CARBON TAX
+Q1,68,AGRICULTURE/FARMER'S CONCERNS
+Q1,69,WORLD PEACE/NATIONS
+Q1,70,INCOME EQUALITY
+Q1,71,OUSTING TRUDEAU/LIBERALS FROM POLITICAL POWER
+Q1,72,"INCOME INEQUALITY, MIDDLE/LOW INCOME CONCERNS"
+Q1,73,PHOENIX PAYROLL SYSTEM ISSUES
+Q1,74,ENERGY MANAGEMENT (GENERAL MENTION)
+Q1,75,"CHILDREN, WELFARE OF CHILDREN"
+Q1,76,"CONSTITUTION/DEMOCRACY (E.G: FREEDOM OF SPEECH, CITIZEN'S RI"
+Q1,77,Other (specify)
+Q1,78,"MILITARY SPENDING, ARMED FORCES, VARIOUS"
+Q1,80,SOCIAL JUSTICE/EQUALITY
+Q1,81,BANKING REFORM/ADDRESSING CONCERNS WITH THE BANKING INDUSTRY
+Q1,88,Other
+Q1,99,Don't Know/Refused
+Q2,1,Completely  on the  wrong track  1
+Q2,2,2
+Q2,3,3
+Q2,4,4
+Q2,5,5
+Q2,6,6
+Q2,7,7
+Q2,8,8
+Q2,9,9
+Q2,10,Completely  on the  right track  10
+Q2,99,Don't Know/  Refused
+Q3A,1,Completely  on the  wrong track  1
+Q3A,2,2
+Q3A,3,3
+Q3A,4,4
+Q3A,5,5
+Q3A,6,6
+Q3A,7,7
+Q3A,8,8
+Q3A,9,9
+Q3A,10,Completely  on the  right track  10
+Q3A,99,Don't Know/  Refused
+Q3B,1,Completely  on the  wrong track  1
+Q3B,2,2
+Q3B,3,3
+Q3B,4,4
+Q3B,5,5
+Q3B,6,6
+Q3B,7,7
+Q3B,8,8
+Q3B,9,9
+Q3B,10,Completely  on the  right track  10
+Q3B,99,Don't Know/  Refused
+Q3C,1,Completely  on the  wrong track  1
+Q3C,2,2
+Q3C,3,3
+Q3C,4,4
+Q3C,5,5
+Q3C,6,6
+Q3C,7,7
+Q3C,8,8
+Q3C,9,9
+Q3C,10,Completely  on the  right track  10
+Q3C,99,Don't Know/  Refused
+Q3D,1,Completely  on the  wrong track  1
+Q3D,2,2
+Q3D,3,3
+Q3D,4,4
+Q3D,5,5
+Q3D,6,6
+Q3D,7,7
+Q3D,8,8
+Q3D,9,9
+Q3D,10,Completely  on the  right track  10
+Q3D,99,Don't Know/  Refused
+Q3E,1,Completely  on the  wrong track  1
+Q3E,2,2
+Q3E,3,3
+Q3E,4,4
+Q3E,5,5
+Q3E,6,6
+Q3E,7,7
+Q3E,8,8
+Q3E,9,9
+Q3E,10,Completely  on the  right track  10
+Q3E,99,Don't Know/  Refused
+Q3F,1,Completely  on the  wrong track  1
+Q3F,2,2
+Q3F,3,3
+Q3F,4,4
+Q3F,5,5
+Q3F,6,6
+Q3F,7,7
+Q3F,8,8
+Q3F,9,9
+Q3F,10,Completely  on the  right track  10
+Q3F,99,Don't Know/  Refused
+Q3G,1,Completely  on the  wrong track  1
+Q3G,2,2
+Q3G,3,3
+Q3G,4,4
+Q3G,5,5
+Q3G,6,6
+Q3G,7,7
+Q3G,8,8
+Q3G,9,9
+Q3G,10,Completely  on the  right track  10
+Q3G,99,Don't Know/  Refused
+Q3H,1,Completely  on the  wrong track  1
+Q3H,2,2
+Q3H,3,3
+Q3H,4,4
+Q3H,5,5
+Q3H,6,6
+Q3H,7,7
+Q3H,8,8
+Q3H,9,9
+Q3H,10,Completely  on the  right track  10
+Q3H,99,Don't Know/  Refused
+QN1M1,2,HAVE NOT SEEN/READ/HEARD ANYTHING
+QN1M1,20,Doctor-assisted dying / Bill C14 / the right to die
+QN1M1,21,Assistance for First Nations / Aboriginal concerns
+QN1M1,22,Assistance for For McMurray / fire
+QN1M1,23,Assistance for seniors / pensions
+QN1M1,24,Immigration policy / assistance for refugees
+QN1M1,25,Legalization of marijuana
+QN1M1,26,'Elbowgate'
+QN1M1,27,Increased infrastructure funding (general)
+QN1M1,28,Increased infrastructure funding - public transportation
+QN1M1,29,Support of LGBQT safety / Gay Pride
+QN1M1,30,Electoral reform
+QN1M1,31,Public apology for past actions / history
+QN1M1,32,Addressing oil and gas / pipeline concerns
+QN1M1,33,Addressing unemployment / jobs (incl. General Motors)
+QN1M1,34,Addressing education concerns
+QN1M1,35,Addressing healthcare concerns
+QN1M1,36,Addressing cost of living / wage concerns
+QN1M1,37,Military spending - aircraft contract
+QN1M1,38,Justin Trudeau in the media (specified)
+QN1M1,39,Government action / on the news (unspecified)
+QN1M1,40,Addressing the economy / strengthening the economy
+QN1M1,41,Addressing environmental concerns (incl. carbon tax)
+QN1M1,42,Addressing international relations / trade agreements
+QN1M1,43,Addressing tax policy
+QN1M1,44,Military spending - other
+QN1M1,45,'Three Amigos' summit
+QN1M1,47,NATO deployment
+QN1M1,48,Canada Post strike
+QN1M1,49,Judicial appointments
+QN1M1,50,Canadian Child Tax Benefit (CCTB)
+QN1M1,51,Financial / budget changes
+QN1M1,52,Addressing Hydro One
+QN1M1,53,Deployment of Canadian soldiers
+QN1M1,54,Public safety / security
+QN1M1,55,Inactivity of members of Parliament / government
+QN1M1,56,Paris Accord
+QN1M1,57,Royal visit
+QN1M1,58,"Rise in energy prices (electricity, hydro, gas)"
+QN1M1,59,Tax on foreign property buyers
+QN1M1,60,Housing issues / affordable housing / new mortgage rules
+QN1M1,61,US Election (Hillary Clinton / Donald Trump)
+QN1M1,62,Donations / foreign aid
+QN1M1,63,Youth initiatives
+QN1M1,64,Veterans Affairs
+QN1M1,65,Appointment of new senators
+QN1M1,66,Women's right / issues
+QN1M1,67,Public criticism of the PM
+QN1M1,68,"CABINET RESHUFFLING, CHANGE UP OF MINISTERS"
+QN1M1,69,"CANADA 150, PARKS CANADA PASS"
+QN1M1,70,FAMILY SUPPORT/FINANCIAL ALLOCATIONS
+QN1M1,71,PHOENIX PAY SYSTEM ISSUES
+QN1M1,73,"RENEWABLE ENERGY PLANS, PHASING OUT FOSSIL FUELS/OIL SANDS"
+QN1M1,74,"PRIME MINISTER RESPONDING TO QUESTION IN FRENCH, NOT ENGLISH"
+QN1M1,75,"QUEBEC CITY MOSQUE SHOOTING, INCLUDES TRUDEAU'S STATEMENT ON"
+QN1M1,76,"PAY FOR ACCESS, CAMPAIGN FUNDRAISING ISSUES"
+QN1M1,77,Please specify :
+QN1M1,78,POVERTY/HOMELESSNESS/LOW INCOME REDUCTION STRATEGIES (AFFORD
+QN1M1,79,"MISMANAGEMENT OF FUNDS/OVERSPENDDING/MISSPENDING, WASTING TA"
+QN1M1,80,"M-103, ISLAMAPHOBIA/ADDRESSING SYSTEMIC RACISM AGAINST MUSLI"
+QN1M1,81,"OPIOID CRISIS IN VANCOUVER/CANADA, TRUDEAU ADDRESSING ISSUE/"
+QN1M1,82,"PARLIAMENTARY REFORM, CHANGING WHEN THEY MEET"
+QN1M1,83,"POOR CONDUCT/BEHAVIOUR OF SENATOR(S), SENATE REFORM CONCERNS"
+QN1M1,84,CHILD CARE INITIATIVES
+QN1M1,85,BOMBARDIER INVESTMENT/FUNDING
+QN1M1,88,Other
+QN1M1,98,DON'T KNOW
+QN1M1,99,REFUSED
+QN1M2,2,HAVE NOT SEEN/READ/HEARD ANYTHING
+QN1M2,20,Doctor-assisted dying / Bill C14 / the right to die
+QN1M2,21,Assistance for First Nations / Aboriginal concerns
+QN1M2,22,Assistance for For McMurray / fire
+QN1M2,23,Assistance for seniors / pensions
+QN1M2,24,Immigration policy / assistance for refugees
+QN1M2,25,Legalization of marijuana
+QN1M2,26,'Elbowgate'
+QN1M2,27,Increased infrastructure funding (general)
+QN1M2,28,Increased infrastructure funding - public transportation
+QN1M2,29,Support of LGBQT safety / Gay Pride
+QN1M2,30,Electoral reform
+QN1M2,31,Public apology for past actions / history
+QN1M2,32,Addressing oil and gas / pipeline concerns
+QN1M2,33,Addressing unemployment / jobs (incl. General Motors)
+QN1M2,34,Addressing education concerns
+QN1M2,35,Addressing healthcare concerns
+QN1M2,36,Addressing cost of living / wage concerns
+QN1M2,37,Military spending - aircraft contract
+QN1M2,38,Justin Trudeau in the media (specified)
+QN1M2,39,Government action / on the news (unspecified)
+QN1M2,40,Addressing the economy / strengthening the economy
+QN1M2,41,Addressing environmental concerns (incl. carbon tax)
+QN1M2,42,Addressing international relations / trade agreements
+QN1M2,43,Addressing tax policy
+QN1M2,44,Military spending - other
+QN1M2,45,'Three Amigos' summit
+QN1M2,47,NATO deployment
+QN1M2,48,Canada Post strike
+QN1M2,49,Judicial appointments
+QN1M2,50,Canadian Child Tax Benefit (CCTB)
+QN1M2,51,Financial / budget changes
+QN1M2,52,Addressing Hydro One
+QN1M2,53,Deployment of Canadian soldiers
+QN1M2,54,Public safety / security
+QN1M2,55,Inactivity of members of Parliament / government
+QN1M2,56,Paris Accord
+QN1M2,57,Royal visit
+QN1M2,58,"Rise in energy prices (electricity, hydro, gas)"
+QN1M2,59,Tax on foreign property buyers
+QN1M2,60,Housing issues / affordable housing / new mortgage rules
+QN1M2,61,US Election (Hillary Clinton / Donald Trump)
+QN1M2,62,Donations / foreign aid
+QN1M2,63,Youth initiatives
+QN1M2,64,Veterans Affairs
+QN1M2,65,Appointment of new senators
+QN1M2,66,Women's right / issues
+QN1M2,67,Public criticism of the PM
+QN1M2,68,"CABINET RESHUFFLING, CHANGE UP OF MINISTERS"
+QN1M2,69,"CANADA 150, PARKS CANADA PASS"
+QN1M2,70,FAMILY SUPPORT/FINANCIAL ALLOCATIONS
+QN1M2,71,PHOENIX PAY SYSTEM ISSUES
+QN1M2,73,"RENEWABLE ENERGY PLANS, PHASING OUT FOSSIL FUELS/OIL SANDS"
+QN1M2,74,"PRIME MINISTER RESPONDING TO QUESTION IN FRENCH, NOT ENGLISH"
+QN1M2,75,"QUEBEC CITY MOSQUE SHOOTING, INCLUDES TRUDEAU'S STATEMENT ON"
+QN1M2,76,"PAY FOR ACCESS, CAMPAIGN FUNDRAISING ISSUES"
+QN1M2,77,Please specify :
+QN1M2,78,POVERTY/HOMELESSNESS/LOW INCOME REDUCTION STRATEGIES (AFFORD
+QN1M2,79,"MISMANAGEMENT OF FUNDS/OVERSPENDDING/MISSPENDING, WASTING TA"
+QN1M2,80,"M-103, ISLAMAPHOBIA/ADDRESSING SYSTEMIC RACISM AGAINST MUSLI"
+QN1M2,81,"OPIOID CRISIS IN VANCOUVER/CANADA, TRUDEAU ADDRESSING ISSUE/"
+QN1M2,82,"PARLIAMENTARY REFORM, CHANGING WHEN THEY MEET"
+QN1M2,83,"POOR CONDUCT/BEHAVIOUR OF SENATOR(S), SENATE REFORM CONCERNS"
+QN1M2,84,CHILD CARE INITIATIVES
+QN1M2,85,BOMBARDIER INVESTMENT/FUNDING
+QN1M2,88,Other
+QN1M2,98,DON'T KNOW
+QN1M2,99,REFUSED
+QN1M3,2,HAVE NOT SEEN/READ/HEARD ANYTHING
+QN1M3,20,Doctor-assisted dying / Bill C14 / the right to die
+QN1M3,21,Assistance for First Nations / Aboriginal concerns
+QN1M3,22,Assistance for For McMurray / fire
+QN1M3,23,Assistance for seniors / pensions
+QN1M3,24,Immigration policy / assistance for refugees
+QN1M3,25,Legalization of marijuana
+QN1M3,26,'Elbowgate'
+QN1M3,27,Increased infrastructure funding (general)
+QN1M3,28,Increased infrastructure funding - public transportation
+QN1M3,29,Support of LGBQT safety / Gay Pride
+QN1M3,30,Electoral reform
+QN1M3,31,Public apology for past actions / history
+QN1M3,32,Addressing oil and gas / pipeline concerns
+QN1M3,33,Addressing unemployment / jobs (incl. General Motors)
+QN1M3,34,Addressing education concerns
+QN1M3,35,Addressing healthcare concerns
+QN1M3,36,Addressing cost of living / wage concerns
+QN1M3,37,Military spending - aircraft contract
+QN1M3,38,Justin Trudeau in the media (specified)
+QN1M3,39,Government action / on the news (unspecified)
+QN1M3,40,Addressing the economy / strengthening the economy
+QN1M3,41,Addressing environmental concerns (incl. carbon tax)
+QN1M3,42,Addressing international relations / trade agreements
+QN1M3,43,Addressing tax policy
+QN1M3,44,Military spending - other
+QN1M3,45,'Three Amigos' summit
+QN1M3,47,NATO deployment
+QN1M3,48,Canada Post strike
+QN1M3,49,Judicial appointments
+QN1M3,50,Canadian Child Tax Benefit (CCTB)
+QN1M3,51,Financial / budget changes
+QN1M3,52,Addressing Hydro One
+QN1M3,53,Deployment of Canadian soldiers
+QN1M3,54,Public safety / security
+QN1M3,55,Inactivity of members of Parliament / government
+QN1M3,56,Paris Accord
+QN1M3,57,Royal visit
+QN1M3,58,"Rise in energy prices (electricity, hydro, gas)"
+QN1M3,59,Tax on foreign property buyers
+QN1M3,60,Housing issues / affordable housing / new mortgage rules
+QN1M3,61,US Election (Hillary Clinton / Donald Trump)
+QN1M3,62,Donations / foreign aid
+QN1M3,63,Youth initiatives
+QN1M3,64,Veterans Affairs
+QN1M3,65,Appointment of new senators
+QN1M3,66,Women's right / issues
+QN1M3,67,Public criticism of the PM
+QN1M3,68,"CABINET RESHUFFLING, CHANGE UP OF MINISTERS"
+QN1M3,69,"CANADA 150, PARKS CANADA PASS"
+QN1M3,70,FAMILY SUPPORT/FINANCIAL ALLOCATIONS
+QN1M3,71,PHOENIX PAY SYSTEM ISSUES
+QN1M3,73,"RENEWABLE ENERGY PLANS, PHASING OUT FOSSIL FUELS/OIL SANDS"
+QN1M3,74,"PRIME MINISTER RESPONDING TO QUESTION IN FRENCH, NOT ENGLISH"
+QN1M3,75,"QUEBEC CITY MOSQUE SHOOTING, INCLUDES TRUDEAU'S STATEMENT ON"
+QN1M3,76,"PAY FOR ACCESS, CAMPAIGN FUNDRAISING ISSUES"
+QN1M3,77,Please specify :
+QN1M3,78,POVERTY/HOMELESSNESS/LOW INCOME REDUCTION STRATEGIES (AFFORD
+QN1M3,79,"MISMANAGEMENT OF FUNDS/OVERSPENDDING/MISSPENDING, WASTING TA"
+QN1M3,80,"M-103, ISLAMAPHOBIA/ADDRESSING SYSTEMIC RACISM AGAINST MUSLI"
+QN1M3,81,"OPIOID CRISIS IN VANCOUVER/CANADA, TRUDEAU ADDRESSING ISSUE/"
+QN1M3,82,"PARLIAMENTARY REFORM, CHANGING WHEN THEY MEET"
+QN1M3,83,"POOR CONDUCT/BEHAVIOUR OF SENATOR(S), SENATE REFORM CONCERNS"
+QN1M3,84,CHILD CARE INITIATIVES
+QN1M3,85,BOMBARDIER INVESTMENT/FUNDING
+QN1M3,88,Other
+QN1M3,98,DON'T KNOW
+QN1M3,99,REFUSED
+QN1M4,2,HAVE NOT SEEN/READ/HEARD ANYTHING
+QN1M4,20,Doctor-assisted dying / Bill C14 / the right to die
+QN1M4,21,Assistance for First Nations / Aboriginal concerns
+QN1M4,22,Assistance for For McMurray / fire
+QN1M4,23,Assistance for seniors / pensions
+QN1M4,24,Immigration policy / assistance for refugees
+QN1M4,25,Legalization of marijuana
+QN1M4,26,'Elbowgate'
+QN1M4,27,Increased infrastructure funding (general)
+QN1M4,28,Increased infrastructure funding - public transportation
+QN1M4,29,Support of LGBQT safety / Gay Pride
+QN1M4,30,Electoral reform
+QN1M4,31,Public apology for past actions / history
+QN1M4,32,Addressing oil and gas / pipeline concerns
+QN1M4,33,Addressing unemployment / jobs (incl. General Motors)
+QN1M4,34,Addressing education concerns
+QN1M4,35,Addressing healthcare concerns
+QN1M4,36,Addressing cost of living / wage concerns
+QN1M4,37,Military spending - aircraft contract
+QN1M4,38,Justin Trudeau in the media (specified)
+QN1M4,39,Government action / on the news (unspecified)
+QN1M4,40,Addressing the economy / strengthening the economy
+QN1M4,41,Addressing environmental concerns (incl. carbon tax)
+QN1M4,42,Addressing international relations / trade agreements
+QN1M4,43,Addressing tax policy
+QN1M4,44,Military spending - other
+QN1M4,45,'Three Amigos' summit
+QN1M4,47,NATO deployment
+QN1M4,48,Canada Post strike
+QN1M4,49,Judicial appointments
+QN1M4,50,Canadian Child Tax Benefit (CCTB)
+QN1M4,51,Financial / budget changes
+QN1M4,52,Addressing Hydro One
+QN1M4,53,Deployment of Canadian soldiers
+QN1M4,54,Public safety / security
+QN1M4,55,Inactivity of members of Parliament / government
+QN1M4,56,Paris Accord
+QN1M4,57,Royal visit
+QN1M4,58,"Rise in energy prices (electricity, hydro, gas)"
+QN1M4,59,Tax on foreign property buyers
+QN1M4,60,Housing issues / affordable housing / new mortgage rules
+QN1M4,61,US Election (Hillary Clinton / Donald Trump)
+QN1M4,62,Donations / foreign aid
+QN1M4,63,Youth initiatives
+QN1M4,64,Veterans Affairs
+QN1M4,65,Appointment of new senators
+QN1M4,66,Women's right / issues
+QN1M4,67,Public criticism of the PM
+QN1M4,68,"CABINET RESHUFFLING, CHANGE UP OF MINISTERS"
+QN1M4,69,"CANADA 150, PARKS CANADA PASS"
+QN1M4,70,FAMILY SUPPORT/FINANCIAL ALLOCATIONS
+QN1M4,71,PHOENIX PAY SYSTEM ISSUES
+QN1M4,73,"RENEWABLE ENERGY PLANS, PHASING OUT FOSSIL FUELS/OIL SANDS"
+QN1M4,74,"PRIME MINISTER RESPONDING TO QUESTION IN FRENCH, NOT ENGLISH"
+QN1M4,75,"QUEBEC CITY MOSQUE SHOOTING, INCLUDES TRUDEAU'S STATEMENT ON"
+QN1M4,76,"PAY FOR ACCESS, CAMPAIGN FUNDRAISING ISSUES"
+QN1M4,77,Please specify :
+QN1M4,78,POVERTY/HOMELESSNESS/LOW INCOME REDUCTION STRATEGIES (AFFORD
+QN1M4,79,"MISMANAGEMENT OF FUNDS/OVERSPENDDING/MISSPENDING, WASTING TA"
+QN1M4,80,"M-103, ISLAMAPHOBIA/ADDRESSING SYSTEMIC RACISM AGAINST MUSLI"
+QN1M4,81,"OPIOID CRISIS IN VANCOUVER/CANADA, TRUDEAU ADDRESSING ISSUE/"
+QN1M4,82,"PARLIAMENTARY REFORM, CHANGING WHEN THEY MEET"
+QN1M4,83,"POOR CONDUCT/BEHAVIOUR OF SENATOR(S), SENATE REFORM CONCERNS"
+QN1M4,84,CHILD CARE INITIATIVES
+QN1M4,85,BOMBARDIER INVESTMENT/FUNDING
+QN1M4,88,Other
+QN1M4,98,DON'T KNOW
+QN1M4,99,REFUSED
+QN2A,1,Not at  all aware
+QN2A,2,Heard  a bit  about it
+QN2A,3,Paying  attention  to it but not  discussing it
+QN2A,4,Paying  attention  to it and  discussing  it with others
+QN2A,9,Don't Know/  Refused
+QN2C,1,Not at  all aware
+QN2C,2,Heard  a bit  about it
+QN2C,3,Paying  attention  to it but not  discussing it
+QN2C,4,Paying  attention  to it and  discussing  it with others
+QN2C,9,Don't Know/  Refused
+QN2D,1,Not at  all aware
+QN2D,2,Heard  a bit  about it
+QN2D,3,Paying  attention  to it but not  discussing it
+QN2D,4,Paying  attention  to it and  discussing  it with others
+QN2D,9,Don't Know/  Refused
+QN2E,1,Not at  all aware
+QN2E,2,Heard  a bit  about it
+QN2E,3,Paying  attention  to it but not  discussing it
+QN2E,4,Paying  attention  to it and  discussing  it with others
+QN2E,9,Don't Know/  Refused
+QN2N,1,Not at  all aware
+QN2N,2,Heard  a bit  about it
+QN2N,3,Paying  attention  to it but not  discussing it
+QN2N,4,Paying  attention  to it and  discussing  it with others
+QN2N,9,Don't Know/  Refused
+QN2S,1,Not at  all aware
+QN2S,2,Heard  a bit  about it
+QN2S,3,Paying  attention  to it but not  discussing it
+QN2S,4,Paying  attention  to it and  discussing  it with others
+QN2S,9,Don't Know/  Refused
+QN2U,1,Not at  all aware
+QN2U,2,Heard  a bit  about it
+QN2U,3,Paying  attention  to it but not  discussing it
+QN2U,4,Paying  attention  to it and  discussing  it with others
+QN2U,9,Don't Know/  Refused
+QN2X,1,Not at  all aware
+QN2X,2,Heard  a bit  about it
+QN2X,3,Paying  attention  to it but not  discussing it
+QN2X,4,Paying  attention  to it and  discussing  it with others
+QN2X,9,Don't Know/  Refused
+QN2AZ,1,Not at  all aware
+QN2AZ,2,Heard  a bit  about it
+QN2AZ,3,Paying  attention  to it but not  discussing it
+QN2AZ,4,Paying  attention  to it and  discussing  it with others
+QN2AZ,9,Don't Know/  Refused
+QN2BZ,1,Not at  all aware
+QN2BZ,2,Heard  a bit  about it
+QN2BZ,3,Paying  attention  to it but not  discussing it
+QN2BZ,4,Paying  attention  to it and  discussing  it with others
+QN2BZ,9,Don't Know/  Refused
+QN2CZ,1,Not at  all aware
+QN2CZ,2,Heard  a bit  about it
+QN2CZ,3,Paying  attention  to it but not  discussing it
+QN2CZ,4,Paying  attention  to it and  discussing  it with others
+QN2CZ,9,Don't Know/  Refused
+QN2DZ,1,Not at  all aware
+QN2DZ,2,Heard  a bit  about it
+QN2DZ,3,Paying  attention  to it but not  discussing it
+QN2DZ,4,Paying  attention  to it and  discussing  it with others
+QN2DZ,9,Don't Know/  Refused
+QSEC3,1,Going too far in protecting our national security at the exp
+QSEC3,2,Striking the right balance between protecting our national s
+QSEC3,3,Not going far enough in protecting our national security
+QSEC3,9,Don't Know/Refused
+QSEC1,1,Increase
+QSEC1,2,Stay about the same
+QSEC1,3,Decrease
+QSEC1,9,Don't Know/Refused
+QE1,1,Falling behind on your monthly expenses
+QE1,2,"Just getting by, with no savings"
+QE1,3,"Getting ahead, with some savings"
+QE1,4,Financially secure
+QE1,9,Don't Know/Refused
+BUD1_1,1,CANCELLING THE PUBLIC TRANSIT TAX CREDIT
+BUD1_1,2,INFRASTRUCTURE SPENDING/INITIATIVES
+BUD1_1,3,CHILDCARE INVESTMENT/DAY CARE ACCESS
+BUD1_1,4,HEALTH CARE INVESTMENTS
+BUD1_1,5,"CLIMATE CHANGE, ENVIRONMENTAL, CARBON TAX"
+BUD1_1,6,"DEBT/DEFICIT WILL BE HIGH, OVERSPENDING, DEBT WILL GROW/CONT"
+BUD1_1,7,CUTS TO MILITARY SPENDING/CHANGES TO MILITARY
+BUD1_1,8,INVESTMENT IN INNOVATION/TECHNOLOGY
+BUD1_1,9,"TAX CREDITS TAKEN AWAY, TAX CREDITS CANCELLED (UNSPECIFIED)"
+BUD1_1,10,WOMEN'S RIGHTS/SUPPORT
+BUD1_1,11,"NO BIG CHANGES, NO SURPRISES"
+BUD1_1,12,PUBLIC TRANSPORTATION INFRASTRUCTURE
+BUD1_1,13,"NO NEW TAX HIKES, TAX REMAINS THE SAME MOSTLY"
+BUD1_1,14,"TAX EMXEMPTIONS/CHANGES TO TAX STRUCTURE, MIDDLE CLASS TAX S"
+BUD1_1,15,FAMILY/PARENTAL SUPPORTS/INITIATIVES (MAINLY MATERNITY LEAVE
+BUD1_1,16,"EDUCATION, SKILLS TRAINING"
+BUD1_1,17,RAISING TAXES/TAX HIKES
+BUD1_1,18,RAISING TAXES ON TOBACCO/ALCOHOL
+BUD1_1,19,CUTTING BACK/CHANGES TO0 CHILD TAX CREDIT
+BUD1_1,21,"EMPLOYMENT INITIATIVES, JOB CREATION"
+BUD1_1,22,HOUSING INITIATIVES/INVESTMENT FOR ACCESS/AFFORDABILITY
+BUD1_1,23,EMPLOYMENT INSURANCE INCREASES/CHANGES
+BUD1_1,24,"INDIGENOUS ISSUES/CONCERNS ADDRESSED, INVESTMENT IN COMMUNIT"
+BUD1_1,25,LEGALIZING MARIJUANA
+BUD1_1,27,CANCELLING CANADA SAVINGS BONDS
+BUD1_1,28,ECONOMY/BUSINESS INVESTMENT
+BUD1_1,29,GREEN ENERGY INITIATIVES
+BUD1_1,30,"NEGATIVE REACTIONS TO IT/CONCERNS, VARIOUS"
+BUD1_1,31,"IMMIGRATION/REFUGEE INVESTMENT, PROGRAMS/SUPPORTS"
+BUD1_1,77,Please specify :
+BUD1_1,99,Don't Know/Refused
+BUD1_2,1,CANCELLING THE PUBLIC TRANSIT TAX CREDIT
+BUD1_2,2,INFRASTRUCTURE SPENDING/INITIATIVES
+BUD1_2,3,CHILDCARE INVESTMENT/DAY CARE ACCESS
+BUD1_2,4,HEALTH CARE INVESTMENTS
+BUD1_2,5,"CLIMATE CHANGE, ENVIRONMENTAL, CARBON TAX"
+BUD1_2,6,"DEBT/DEFICIT WILL BE HIGH, OVERSPENDING, DEBT WILL GROW/CONT"
+BUD1_2,7,CUTS TO MILITARY SPENDING/CHANGES TO MILITARY
+BUD1_2,8,INVESTMENT IN INNOVATION/TECHNOLOGY
+BUD1_2,9,"TAX CREDITS TAKEN AWAY, TAX CREDITS CANCELLED (UNSPECIFIED)"
+BUD1_2,10,WOMEN'S RIGHTS/SUPPORT
+BUD1_2,11,"NO BIG CHANGES, NO SURPRISES"
+BUD1_2,12,PUBLIC TRANSPORTATION INFRASTRUCTURE
+BUD1_2,13,"NO NEW TAX HIKES, TAX REMAINS THE SAME MOSTLY"
+BUD1_2,14,"TAX EMXEMPTIONS/CHANGES TO TAX STRUCTURE, MIDDLE CLASS TAX S"
+BUD1_2,15,FAMILY/PARENTAL SUPPORTS/INITIATIVES (MAINLY MATERNITY LEAVE
+BUD1_2,16,"EDUCATION, SKILLS TRAINING"
+BUD1_2,17,RAISING TAXES/TAX HIKES
+BUD1_2,18,RAISING TAXES ON TOBACCO/ALCOHOL
+BUD1_2,19,CUTTING BACK/CHANGES TO0 CHILD TAX CREDIT
+BUD1_2,21,"EMPLOYMENT INITIATIVES, JOB CREATION"
+BUD1_2,22,HOUSING INITIATIVES/INVESTMENT FOR ACCESS/AFFORDABILITY
+BUD1_2,23,EMPLOYMENT INSURANCE INCREASES/CHANGES
+BUD1_2,24,"INDIGENOUS ISSUES/CONCERNS ADDRESSED, INVESTMENT IN COMMUNIT"
+BUD1_2,25,LEGALIZING MARIJUANA
+BUD1_2,27,CANCELLING CANADA SAVINGS BONDS
+BUD1_2,28,ECONOMY/BUSINESS INVESTMENT
+BUD1_2,29,GREEN ENERGY INITIATIVES
+BUD1_2,30,"NEGATIVE REACTIONS TO IT/CONCERNS, VARIOUS"
+BUD1_2,31,"IMMIGRATION/REFUGEE INVESTMENT, PROGRAMS/SUPPORTS"
+BUD1_2,77,Please specify :
+BUD1_2,99,Don't Know/Refused
+BUD1_3,1,CANCELLING THE PUBLIC TRANSIT TAX CREDIT
+BUD1_3,2,INFRASTRUCTURE SPENDING/INITIATIVES
+BUD1_3,3,CHILDCARE INVESTMENT/DAY CARE ACCESS
+BUD1_3,4,HEALTH CARE INVESTMENTS
+BUD1_3,5,"CLIMATE CHANGE, ENVIRONMENTAL, CARBON TAX"
+BUD1_3,6,"DEBT/DEFICIT WILL BE HIGH, OVERSPENDING, DEBT WILL GROW/CONT"
+BUD1_3,7,CUTS TO MILITARY SPENDING/CHANGES TO MILITARY
+BUD1_3,8,INVESTMENT IN INNOVATION/TECHNOLOGY
+BUD1_3,9,"TAX CREDITS TAKEN AWAY, TAX CREDITS CANCELLED (UNSPECIFIED)"
+BUD1_3,10,WOMEN'S RIGHTS/SUPPORT
+BUD1_3,11,"NO BIG CHANGES, NO SURPRISES"
+BUD1_3,12,PUBLIC TRANSPORTATION INFRASTRUCTURE
+BUD1_3,13,"NO NEW TAX HIKES, TAX REMAINS THE SAME MOSTLY"
+BUD1_3,14,"TAX EMXEMPTIONS/CHANGES TO TAX STRUCTURE, MIDDLE CLASS TAX S"
+BUD1_3,15,FAMILY/PARENTAL SUPPORTS/INITIATIVES (MAINLY MATERNITY LEAVE
+BUD1_3,16,"EDUCATION, SKILLS TRAINING"
+BUD1_3,17,RAISING TAXES/TAX HIKES
+BUD1_3,18,RAISING TAXES ON TOBACCO/ALCOHOL
+BUD1_3,19,CUTTING BACK/CHANGES TO0 CHILD TAX CREDIT
+BUD1_3,21,"EMPLOYMENT INITIATIVES, JOB CREATION"
+BUD1_3,22,HOUSING INITIATIVES/INVESTMENT FOR ACCESS/AFFORDABILITY
+BUD1_3,23,EMPLOYMENT INSURANCE INCREASES/CHANGES
+BUD1_3,24,"INDIGENOUS ISSUES/CONCERNS ADDRESSED, INVESTMENT IN COMMUNIT"
+BUD1_3,25,LEGALIZING MARIJUANA
+BUD1_3,27,CANCELLING CANADA SAVINGS BONDS
+BUD1_3,28,ECONOMY/BUSINESS INVESTMENT
+BUD1_3,29,GREEN ENERGY INITIATIVES
+BUD1_3,30,"NEGATIVE REACTIONS TO IT/CONCERNS, VARIOUS"
+BUD1_3,31,"IMMIGRATION/REFUGEE INVESTMENT, PROGRAMS/SUPPORTS"
+BUD1_3,77,Please specify :
+BUD1_3,99,Don't Know/Refused
+BUD2_1,1,"Conversations in person or on the phone with friends, family"
+BUD2_1,2,Status updates and personal opinions shared by friends on Fa
+BUD2_1,3,Stories or links shared on Facebook
+BUD2_1,4,Opinions or links shared on Twitter
+BUD2_1,5,Stories on online news sites
+BUD2_1,6,"Video posted on YouTube, social media, or online news sites"
+BUD2_1,7,Print newspaper stories
+BUD2_1,8,Radio news stories
+BUD2_1,9,TV news stories
+BUD2_1,97,None of these sources
+BUD2_1,98,DON'T KNOW
+BUD2_1,99,REFUSED
+BUD2_2,1,"Conversations in person or on the phone with friends, family"
+BUD2_2,2,Status updates and personal opinions shared by friends on Fa
+BUD2_2,3,Stories or links shared on Facebook
+BUD2_2,4,Opinions or links shared on Twitter
+BUD2_2,5,Stories on online news sites
+BUD2_2,6,"Video posted on YouTube, social media, or online news sites"
+BUD2_2,7,Print newspaper stories
+BUD2_2,8,Radio news stories
+BUD2_2,9,TV news stories
+BUD2_2,97,None of these sources
+BUD2_2,98,DON'T KNOW
+BUD2_2,99,REFUSED
+BUD2_3,1,"Conversations in person or on the phone with friends, family"
+BUD2_3,2,Status updates and personal opinions shared by friends on Fa
+BUD2_3,3,Stories or links shared on Facebook
+BUD2_3,4,Opinions or links shared on Twitter
+BUD2_3,5,Stories on online news sites
+BUD2_3,6,"Video posted on YouTube, social media, or online news sites"
+BUD2_3,7,Print newspaper stories
+BUD2_3,8,Radio news stories
+BUD2_3,9,TV news stories
+BUD2_3,97,None of these sources
+BUD2_3,98,DON'T KNOW
+BUD2_3,99,REFUSED
+BUD2_4,1,"Conversations in person or on the phone with friends, family"
+BUD2_4,2,Status updates and personal opinions shared by friends on Fa
+BUD2_4,3,Stories or links shared on Facebook
+BUD2_4,4,Opinions or links shared on Twitter
+BUD2_4,5,Stories on online news sites
+BUD2_4,6,"Video posted on YouTube, social media, or online news sites"
+BUD2_4,7,Print newspaper stories
+BUD2_4,8,Radio news stories
+BUD2_4,9,TV news stories
+BUD2_4,97,None of these sources
+BUD2_4,98,DON'T KNOW
+BUD2_4,99,REFUSED
+BUD2_5,1,"Conversations in person or on the phone with friends, family"
+BUD2_5,2,Status updates and personal opinions shared by friends on Fa
+BUD2_5,3,Stories or links shared on Facebook
+BUD2_5,4,Opinions or links shared on Twitter
+BUD2_5,5,Stories on online news sites
+BUD2_5,6,"Video posted on YouTube, social media, or online news sites"
+BUD2_5,7,Print newspaper stories
+BUD2_5,8,Radio news stories
+BUD2_5,9,TV news stories
+BUD2_5,97,None of these sources
+BUD2_5,98,DON'T KNOW
+BUD2_5,99,REFUSED
+BUD2_6,1,"Conversations in person or on the phone with friends, family"
+BUD2_6,2,Status updates and personal opinions shared by friends on Fa
+BUD2_6,3,Stories or links shared on Facebook
+BUD2_6,4,Opinions or links shared on Twitter
+BUD2_6,5,Stories on online news sites
+BUD2_6,6,"Video posted on YouTube, social media, or online news sites"
+BUD2_6,7,Print newspaper stories
+BUD2_6,8,Radio news stories
+BUD2_6,9,TV news stories
+BUD2_6,97,None of these sources
+BUD2_6,98,DON'T KNOW
+BUD2_6,99,REFUSED
+BUD2_7,1,"Conversations in person or on the phone with friends, family"
+BUD2_7,2,Status updates and personal opinions shared by friends on Fa
+BUD2_7,3,Stories or links shared on Facebook
+BUD2_7,4,Opinions or links shared on Twitter
+BUD2_7,5,Stories on online news sites
+BUD2_7,6,"Video posted on YouTube, social media, or online news sites"
+BUD2_7,7,Print newspaper stories
+BUD2_7,8,Radio news stories
+BUD2_7,9,TV news stories
+BUD2_7,97,None of these sources
+BUD2_7,98,DON'T KNOW
+BUD2_7,99,REFUSED
+BUD2_8,1,"Conversations in person or on the phone with friends, family"
+BUD2_8,2,Status updates and personal opinions shared by friends on Fa
+BUD2_8,3,Stories or links shared on Facebook
+BUD2_8,4,Opinions or links shared on Twitter
+BUD2_8,5,Stories on online news sites
+BUD2_8,6,"Video posted on YouTube, social media, or online news sites"
+BUD2_8,7,Print newspaper stories
+BUD2_8,8,Radio news stories
+BUD2_8,9,TV news stories
+BUD2_8,97,None of these sources
+BUD2_8,98,DON'T KNOW
+BUD2_8,99,REFUSED
+BUD2_9,1,"Conversations in person or on the phone with friends, family"
+BUD2_9,2,Status updates and personal opinions shared by friends on Fa
+BUD2_9,3,Stories or links shared on Facebook
+BUD2_9,4,Opinions or links shared on Twitter
+BUD2_9,5,Stories on online news sites
+BUD2_9,6,"Video posted on YouTube, social media, or online news sites"
+BUD2_9,7,Print newspaper stories
+BUD2_9,8,Radio news stories
+BUD2_9,9,TV news stories
+BUD2_9,97,None of these sources
+BUD2_9,98,DON'T KNOW
+BUD2_9,99,REFUSED
+GHG1A,1,Not at  all likely  1
+GHG1A,2,2
+GHG1A,3,3
+GHG1A,4,4
+GHG1A,5,5
+GHG1A,6,6
+GHG1A,7,7
+GHG1A,8,8
+GHG1A,9,9
+GHG1A,10,Very  likely  10
+GHG1A,99,Don't Know/  Refused
+GHG1B,1,Not at  all likely  1
+GHG1B,2,2
+GHG1B,3,3
+GHG1B,4,4
+GHG1B,5,5
+GHG1B,6,6
+GHG1B,7,7
+GHG1B,8,8
+GHG1B,9,9
+GHG1B,10,Very  likely  10
+GHG1B,99,Don't Know/  Refused
+GHG1CA,1,Not at  all likely  1
+GHG1CA,2,2
+GHG1CA,3,3
+GHG1CA,4,4
+GHG1CA,5,5
+GHG1CA,6,6
+GHG1CA,7,7
+GHG1CA,8,8
+GHG1CA,9,9
+GHG1CA,10,Very  likely  10
+GHG1CA,99,Don't Know/  Refused
+GHG1CB,1,Not at  all likely  1
+GHG1CB,2,2
+GHG1CB,3,3
+GHG1CB,4,4
+GHG1CB,5,5
+GHG1CB,6,6
+GHG1CB,7,7
+GHG1CB,8,8
+GHG1CB,9,9
+GHG1CB,10,Very  likely  10
+GHG1CB,99,Don't Know/  Refused
+GHG1DA,1,Not at  all likely  1
+GHG1DA,2,2
+GHG1DA,3,3
+GHG1DA,4,4
+GHG1DA,5,5
+GHG1DA,6,6
+GHG1DA,7,7
+GHG1DA,8,8
+GHG1DA,9,9
+GHG1DA,10,Very  likely  10
+GHG1DA,99,Don't Know/  Refused
+GHG1DB,1,Not at  all likely  1
+GHG1DB,2,2
+GHG1DB,3,3
+GHG1DB,4,4
+GHG1DB,5,5
+GHG1DB,6,6
+GHG1DB,7,7
+GHG1DB,8,8
+GHG1DB,9,9
+GHG1DB,10,Very  likely  10
+GHG1DB,99,Don't Know/  Refused
+GHG2_1,1,LACK OF OPTIONS/INFRASTRUCTURE TO MOVE FORWARD WITH ANY OTHE
+GHG2_1,2,"LIMITED/INCONVENIENT/LACK OF PUBLIC TRANSPORTATION, LACK OF"
+GHG2_1,3,"COST/EXPENSES TO UPGRADE, COST OF ELECTRIC CARS/APPLIANCES/C"
+GHG2_1,4,"DOES EVERYTHING/THE BEST THEY CAN, ALREADY DOING ALL THEY CA"
+GHG2_1,5,"INEVITABLE/REQUIRED/NO CHOICE; HAS TO DRIVE/RURAL AREA, DRIV"
+GHG2_1,6,"NOT WANTING TO CHANGE LIFESTYLE, LIKE THEIR FIREPLACE/TRUCK/"
+GHG2_1,7,NEED FOR/LACK OF KNOWLEDGE/AWARENESS/INFORMATION
+GHG2_1,8,"DO NOT OWN HOME/FAMILY RESTRAINTS, DO NOT HAVE CONTROL OVER"
+GHG2_1,9,"PHYSICAL MOBILITY/AGE, HEALTH ISSUES"
+GHG2_1,10,LACK OF TIME
+GHG2_1,11,LAZINESS
+GHG2_1,12,LACK OF GOVERNMENT PROGRAMS/INCENTIVES FOR CHANGES
+GHG2_1,13,WILL NOT CHANGE ANYTHING/WILL HAVE LITTLE IMPACT ON CLIMATE
+GHG2_1,77,Please specify :
+GHG2_1,99,Don't Know/Refused
+GHG2_2,1,LACK OF OPTIONS/INFRASTRUCTURE TO MOVE FORWARD WITH ANY OTHE
+GHG2_2,2,"LIMITED/INCONVENIENT/LACK OF PUBLIC TRANSPORTATION, LACK OF"
+GHG2_2,3,"COST/EXPENSES TO UPGRADE, COST OF ELECTRIC CARS/APPLIANCES/C"
+GHG2_2,4,"DOES EVERYTHING/THE BEST THEY CAN, ALREADY DOING ALL THEY CA"
+GHG2_2,5,"INEVITABLE/REQUIRED/NO CHOICE; HAS TO DRIVE/RURAL AREA, DRIV"
+GHG2_2,6,"NOT WANTING TO CHANGE LIFESTYLE, LIKE THEIR FIREPLACE/TRUCK/"
+GHG2_2,7,NEED FOR/LACK OF KNOWLEDGE/AWARENESS/INFORMATION
+GHG2_2,8,"DO NOT OWN HOME/FAMILY RESTRAINTS, DO NOT HAVE CONTROL OVER"
+GHG2_2,9,"PHYSICAL MOBILITY/AGE, HEALTH ISSUES"
+GHG2_2,10,LACK OF TIME
+GHG2_2,11,LAZINESS
+GHG2_2,12,LACK OF GOVERNMENT PROGRAMS/INCENTIVES FOR CHANGES
+GHG2_2,13,WILL NOT CHANGE ANYTHING/WILL HAVE LITTLE IMPACT ON CLIMATE
+GHG2_2,77,Please specify :
+GHG2_2,99,Don't Know/Refused
+GHG2_3,1,LACK OF OPTIONS/INFRASTRUCTURE TO MOVE FORWARD WITH ANY OTHE
+GHG2_3,2,"LIMITED/INCONVENIENT/LACK OF PUBLIC TRANSPORTATION, LACK OF"
+GHG2_3,3,"COST/EXPENSES TO UPGRADE, COST OF ELECTRIC CARS/APPLIANCES/C"
+GHG2_3,4,"DOES EVERYTHING/THE BEST THEY CAN, ALREADY DOING ALL THEY CA"
+GHG2_3,5,"INEVITABLE/REQUIRED/NO CHOICE; HAS TO DRIVE/RURAL AREA, DRIV"
+GHG2_3,6,"NOT WANTING TO CHANGE LIFESTYLE, LIKE THEIR FIREPLACE/TRUCK/"
+GHG2_3,7,NEED FOR/LACK OF KNOWLEDGE/AWARENESS/INFORMATION
+GHG2_3,8,"DO NOT OWN HOME/FAMILY RESTRAINTS, DO NOT HAVE CONTROL OVER"
+GHG2_3,9,"PHYSICAL MOBILITY/AGE, HEALTH ISSUES"
+GHG2_3,10,LACK OF TIME
+GHG2_3,11,LAZINESS
+GHG2_3,12,LACK OF GOVERNMENT PROGRAMS/INCENTIVES FOR CHANGES
+GHG2_3,13,WILL NOT CHANGE ANYTHING/WILL HAVE LITTLE IMPACT ON CLIMATE
+GHG2_3,77,Please specify :
+GHG2_3,99,Don't Know/Refused
+GHG3A,1,Not at  all informed  1
+GHG3A,2,2
+GHG3A,3,3
+GHG3A,4,4
+GHG3A,5,5
+GHG3A,6,6
+GHG3A,7,7
+GHG3A,8,8
+GHG3A,9,9
+GHG3A,10,Very  well  informed  10
+GHG3A,99,Don't Know/  Refused
+GHG3B,1,Not at  all informed  1
+GHG3B,2,2
+GHG3B,3,3
+GHG3B,4,4
+GHG3B,5,5
+GHG3B,6,6
+GHG3B,7,7
+GHG3B,8,8
+GHG3B,9,9
+GHG3B,10,Very  well  informed  10
+GHG3B,99,Don't Know/  Refused
+GHG3CA,1,Not at  all informed  1
+GHG3CA,2,2
+GHG3CA,3,3
+GHG3CA,4,4
+GHG3CA,5,5
+GHG3CA,6,6
+GHG3CA,7,7
+GHG3CA,8,8
+GHG3CA,9,9
+GHG3CA,10,Very  well  informed  10
+GHG3CA,99,Don't Know/  Refused
+GHG3CB,1,Not at  all informed  1
+GHG3CB,2,2
+GHG3CB,3,3
+GHG3CB,4,4
+GHG3CB,5,5
+GHG3CB,6,6
+GHG3CB,7,7
+GHG3CB,8,8
+GHG3CB,9,9
+GHG3CB,10,Very  well  informed  10
+GHG3CB,99,Don't Know/  Refused
+GHG3DA,1,Not at  all informed  1
+GHG3DA,2,2
+GHG3DA,3,3
+GHG3DA,4,4
+GHG3DA,5,5
+GHG3DA,6,6
+GHG3DA,7,7
+GHG3DA,8,8
+GHG3DA,9,9
+GHG3DA,10,Very  well  informed  10
+GHG3DA,99,Don't Know/  Refused
+GHG3DB,1,Not at  all informed  1
+GHG3DB,2,2
+GHG3DB,3,3
+GHG3DB,4,4
+GHG3DB,5,5
+GHG3DB,6,6
+GHG3DB,7,7
+GHG3DB,8,8
+GHG3DB,9,9
+GHG3DB,10,Very  well  informed  10
+GHG3DB,99,Don't Know/  Refused
+GHG4A,1,Yes
+GHG4A,2,No
+GHG4A,99,Don't Know/  Refused
+GHG4B,1,Yes
+GHG4B,2,No
+GHG4B,99,Don't Know/  Refused
+GHG4C,1,Yes
+GHG4C,2,No
+GHG4C,99,Don't Know/  Refused
+GHG4D,1,Yes
+GHG4D,2,No
+GHG4D,99,Don't Know/  Refused
+GHG4E,1,Yes
+GHG4E,2,No
+GHG4E,99,Don't Know/  Refused
+OATH1,1,1 Strongly disagree
+OATH1,2,2
+OATH1,3,3
+OATH1,4,4
+OATH1,5,5
+OATH1,6,6
+OATH1,7,7
+OATH1,8,8
+OATH1,9,9
+OATH1,10,10 Strongly agree
+OATH1,99,Don't Know/Refused
+QINF2AA,1,Not  at all  important  1
+QINF2AA,2,2
+QINF2AA,3,3
+QINF2AA,4,4
+QINF2AA,5,5
+QINF2AA,6,6
+QINF2AA,7,7
+QINF2AA,8,8
+QINF2AA,9,9
+QINF2AA,10,Extremely  important  10
+QINF2AA,99,Don't Know/  Refused
+QINF2AB,1,Not  at all  important  1
+QINF2AB,2,2
+QINF2AB,3,3
+QINF2AB,4,4
+QINF2AB,5,5
+QINF2AB,6,6
+QINF2AB,7,7
+QINF2AB,8,8
+QINF2AB,9,9
+QINF2AB,10,Extremely  important  10
+QINF2AB,99,Don't Know/  Refused
+QINF2BA,1,Not  at all  important  1
+QINF2BA,2,2
+QINF2BA,3,3
+QINF2BA,4,4
+QINF2BA,5,5
+QINF2BA,6,6
+QINF2BA,7,7
+QINF2BA,8,8
+QINF2BA,9,9
+QINF2BA,10,Extremely  important  10
+QINF2BA,99,Don't Know/  Refused
+QINF2BB,1,Not  at all  important  1
+QINF2BB,2,2
+QINF2BB,3,3
+QINF2BB,4,4
+QINF2BB,5,5
+QINF2BB,6,6
+QINF2BB,7,7
+QINF2BB,8,8
+QINF2BB,9,9
+QINF2BB,10,Extremely  important  10
+QINF2BB,99,Don't Know/  Refused
+QINF2CA,1,Not  at all  important  1
+QINF2CA,2,2
+QINF2CA,3,3
+QINF2CA,4,4
+QINF2CA,5,5
+QINF2CA,6,6
+QINF2CA,7,7
+QINF2CA,8,8
+QINF2CA,9,9
+QINF2CA,10,Extremely  important  10
+QINF2CA,99,Don't Know/  Refused
+QINF2CB,1,Not  at all  important  1
+QINF2CB,2,2
+QINF2CB,3,3
+QINF2CB,4,4
+QINF2CB,5,5
+QINF2CB,6,6
+QINF2CB,7,7
+QINF2CB,8,8
+QINF2CB,9,9
+QINF2CB,10,Extremely  important  10
+QINF2CB,99,Don't Know/  Refused
+QINF2DA,1,Not  at all  important  1
+QINF2DA,2,2
+QINF2DA,3,3
+QINF2DA,4,4
+QINF2DA,5,5
+QINF2DA,6,6
+QINF2DA,7,7
+QINF2DA,8,8
+QINF2DA,9,9
+QINF2DA,10,Extremely  important  10
+QINF2DA,99,Don't Know/  Refused
+QINF2DB,1,Not  at all  important  1
+QINF2DB,2,2
+QINF2DB,3,3
+QINF2DB,4,4
+QINF2DB,5,5
+QINF2DB,6,6
+QINF2DB,7,7
+QINF2DB,8,8
+QINF2DB,9,9
+QINF2DB,10,Extremely  important  10
+QINF2DB,99,Don't Know/  Refused
+QINF2E,1,Not  at all  important  1
+QINF2E,2,2
+QINF2E,3,3
+QINF2E,4,4
+QINF2E,5,5
+QINF2E,6,6
+QINF2E,7,7
+QINF2E,8,8
+QINF2E,9,9
+QINF2E,10,Extremely  important  10
+QINF2E,99,Don't Know/  Refused
+QINF2F,1,Not  at all  important  1
+QINF2F,2,2
+QINF2F,3,3
+QINF2F,4,4
+QINF2F,5,5
+QINF2F,6,6
+QINF2F,7,7
+QINF2F,8,8
+QINF2F,9,9
+QINF2F,10,Extremely  important  10
+QINF2F,99,Don't Know/  Refused
+QINF2G,1,Not  at all  important  1
+QINF2G,2,2
+QINF2G,3,3
+QINF2G,4,4
+QINF2G,5,5
+QINF2G,6,6
+QINF2G,7,7
+QINF2G,8,8
+QINF2G,9,9
+QINF2G,10,Extremely  important  10
+QINF2G,99,Don't Know/  Refused
+QINF2H,1,Not  at all  important  1
+QINF2H,2,2
+QINF2H,3,3
+QINF2H,4,4
+QINF2H,5,5
+QINF2H,6,6
+QINF2H,7,7
+QINF2H,8,8
+QINF2H,9,9
+QINF2H,10,Extremely  important  10
+QINF2H,99,Don't Know/  Refused
+QINF2I,1,Not  at all  important  1
+QINF2I,2,2
+QINF2I,3,3
+QINF2I,4,4
+QINF2I,5,5
+QINF2I,6,6
+QINF2I,7,7
+QINF2I,8,8
+QINF2I,9,9
+QINF2I,10,Extremely  important  10
+QINF2I,99,Don't Know/  Refused
+QINF2J,1,Not  at all  important  1
+QINF2J,2,2
+QINF2J,3,3
+QINF2J,4,4
+QINF2J,5,5
+QINF2J,6,6
+QINF2J,7,7
+QINF2J,8,8
+QINF2J,9,9
+QINF2J,10,Extremely  important  10
+QINF2J,99,Don't Know/  Refused
+QCOMM1A,1,Not  a challenge  at all  1
+QCOMM1A,2,2
+QCOMM1A,3,3
+QCOMM1A,4,4
+QCOMM1A,5,5
+QCOMM1A,6,6
+QCOMM1A,7,7
+QCOMM1A,8,8
+QCOMM1A,9,9
+QCOMM1A,10,A very  big challenge  10
+QCOMM1A,99,Don't Know/  Refused
+QCOMM1B,1,Not  a challenge  at all  1
+QCOMM1B,2,2
+QCOMM1B,3,3
+QCOMM1B,4,4
+QCOMM1B,5,5
+QCOMM1B,6,6
+QCOMM1B,7,7
+QCOMM1B,8,8
+QCOMM1B,9,9
+QCOMM1B,10,A very  big challenge  10
+QCOMM1B,99,Don't Know/  Refused
+QCOMM1C,1,Not  a challenge  at all  1
+QCOMM1C,2,2
+QCOMM1C,3,3
+QCOMM1C,4,4
+QCOMM1C,5,5
+QCOMM1C,6,6
+QCOMM1C,7,7
+QCOMM1C,8,8
+QCOMM1C,9,9
+QCOMM1C,10,A very  big challenge  10
+QCOMM1C,99,Don't Know/  Refused
+QCOMM1D,1,Not  a challenge  at all  1
+QCOMM1D,2,2
+QCOMM1D,3,3
+QCOMM1D,4,4
+QCOMM1D,5,5
+QCOMM1D,6,6
+QCOMM1D,7,7
+QCOMM1D,8,8
+QCOMM1D,9,9
+QCOMM1D,10,A very  big challenge  10
+QCOMM1D,99,Don't Know/  Refused
+QCOMM1E,1,Not  a challenge  at all  1
+QCOMM1E,2,2
+QCOMM1E,3,3
+QCOMM1E,4,4
+QCOMM1E,5,5
+QCOMM1E,6,6
+QCOMM1E,7,7
+QCOMM1E,8,8
+QCOMM1E,9,9
+QCOMM1E,10,A very  big challenge  10
+QCOMM1E,99,Don't Know/  Refused
+QCOMM1F,1,Not  a challenge  at all  1
+QCOMM1F,2,2
+QCOMM1F,3,3
+QCOMM1F,4,4
+QCOMM1F,5,5
+QCOMM1F,6,6
+QCOMM1F,7,7
+QCOMM1F,8,8
+QCOMM1F,9,9
+QCOMM1F,10,A very  big challenge  10
+QCOMM1F,99,Don't Know/  Refused
+QCOMM1G,1,Not  a challenge  at all  1
+QCOMM1G,2,2
+QCOMM1G,3,3
+QCOMM1G,4,4
+QCOMM1G,5,5
+QCOMM1G,6,6
+QCOMM1G,7,7
+QCOMM1G,8,8
+QCOMM1G,9,9
+QCOMM1G,10,A very  big challenge  10
+QCOMM1G,99,Don't Know/  Refused
+QCOMM1H,1,Not  a challenge  at all  1
+QCOMM1H,2,2
+QCOMM1H,3,3
+QCOMM1H,4,4
+QCOMM1H,5,5
+QCOMM1H,6,6
+QCOMM1H,7,7
+QCOMM1H,8,8
+QCOMM1H,9,9
+QCOMM1H,10,A very  big challenge  10
+QCOMM1H,99,Don't Know/  Refused
+QCOMM1I,1,Not  a challenge  at all  1
+QCOMM1I,2,2
+QCOMM1I,3,3
+QCOMM1I,4,4
+QCOMM1I,5,5
+QCOMM1I,6,6
+QCOMM1I,7,7
+QCOMM1I,8,8
+QCOMM1I,9,9
+QCOMM1I,10,A very  big challenge  10
+QCOMM1I,99,Don't Know/  Refused
+QCOMM1J,1,Not  a challenge  at all  1
+QCOMM1J,2,2
+QCOMM1J,3,3
+QCOMM1J,4,4
+QCOMM1J,5,5
+QCOMM1J,6,6
+QCOMM1J,7,7
+QCOMM1J,8,8
+QCOMM1J,9,9
+QCOMM1J,10,A very  big challenge  10
+QCOMM1J,99,Don't Know/  Refused
+QCOMM1K,1,Not  a challenge  at all  1
+QCOMM1K,2,2
+QCOMM1K,3,3
+QCOMM1K,4,4
+QCOMM1K,5,5
+QCOMM1K,6,6
+QCOMM1K,7,7
+QCOMM1K,8,8
+QCOMM1K,9,9
+QCOMM1K,10,A very  big challenge  10
+QCOMM1K,99,Don't Know/  Refused
+QCOMM1L,1,Not  a challenge  at all  1
+QCOMM1L,2,2
+QCOMM1L,3,3
+QCOMM1L,4,4
+QCOMM1L,5,5
+QCOMM1L,6,6
+QCOMM1L,7,7
+QCOMM1L,8,8
+QCOMM1L,9,9
+QCOMM1L,10,A very  big challenge  10
+QCOMM1L,99,Don't Know/  Refused
+QCOMM1M,1,Not  a challenge  at all  1
+QCOMM1M,2,2
+QCOMM1M,3,3
+QCOMM1M,4,4
+QCOMM1M,5,5
+QCOMM1M,6,6
+QCOMM1M,7,7
+QCOMM1M,8,8
+QCOMM1M,9,9
+QCOMM1M,10,A very  big challenge  10
+QCOMM1M,99,Don't Know/  Refused
+QCOMM1N,1,Not  a challenge  at all  1
+QCOMM1N,2,2
+QCOMM1N,3,3
+QCOMM1N,4,4
+QCOMM1N,5,5
+QCOMM1N,6,6
+QCOMM1N,7,7
+QCOMM1N,8,8
+QCOMM1N,9,9
+QCOMM1N,10,A very  big challenge  10
+QCOMM1N,99,Don't Know/  Refused
+QCOMM1O,1,Not  a challenge  at all  1
+QCOMM1O,2,2
+QCOMM1O,3,3
+QCOMM1O,4,4
+QCOMM1O,5,5
+QCOMM1O,6,6
+QCOMM1O,7,7
+QCOMM1O,8,8
+QCOMM1O,9,9
+QCOMM1O,10,A very  big challenge  10
+QCOMM1O,99,Don't Know/  Refused
+QCOMM1P,1,Not  a challenge  at all  1
+QCOMM1P,2,2
+QCOMM1P,3,3
+QCOMM1P,4,4
+QCOMM1P,5,5
+QCOMM1P,6,6
+QCOMM1P,7,7
+QCOMM1P,8,8
+QCOMM1P,9,9
+QCOMM1P,10,A very  big challenge  10
+QCOMM1P,99,Don't Know/  Refused
+QCOMM1Q,1,Not  a challenge  at all  1
+QCOMM1Q,2,2
+QCOMM1Q,3,3
+QCOMM1Q,4,4
+QCOMM1Q,5,5
+QCOMM1Q,6,6
+QCOMM1Q,7,7
+QCOMM1Q,8,8
+QCOMM1Q,9,9
+QCOMM1Q,10,A very  big challenge  10
+QCOMM1Q,99,Don't Know/  Refused
+QCOMM1R,1,Not  a challenge  at all  1
+QCOMM1R,2,2
+QCOMM1R,3,3
+QCOMM1R,4,4
+QCOMM1R,5,5
+QCOMM1R,6,6
+QCOMM1R,7,7
+QCOMM1R,8,8
+QCOMM1R,9,9
+QCOMM1R,10,A very  big challenge  10
+QCOMM1R,99,Don't Know/  Refused
+QINFO1A,1,Not  comfortable  at all  1
+QINFO1A,2,2
+QINFO1A,3,3
+QINFO1A,4,4
+QINFO1A,5,5
+QINFO1A,6,6
+QINFO1A,7,7
+QINFO1A,8,8
+QINFO1A,9,9
+QINFO1A,10,Very  comfortable  10
+QINFO1A,99,Don't Know/  Refused
+QINFO1B,1,Not  comfortable  at all  1
+QINFO1B,2,2
+QINFO1B,3,3
+QINFO1B,4,4
+QINFO1B,5,5
+QINFO1B,6,6
+QINFO1B,7,7
+QINFO1B,8,8
+QINFO1B,9,9
+QINFO1B,10,Very  comfortable  10
+QINFO1B,99,Don't Know/  Refused
+QINFO1C,1,Not  comfortable  at all  1
+QINFO1C,2,2
+QINFO1C,3,3
+QINFO1C,4,4
+QINFO1C,5,5
+QINFO1C,6,6
+QINFO1C,7,7
+QINFO1C,8,8
+QINFO1C,9,9
+QINFO1C,10,Very  comfortable  10
+QINFO1C,99,Don't Know/  Refused
+QCAF1AA,1,Not a  priority  1
+QCAF1AA,2,2
+QCAF1AA,3,3
+QCAF1AA,4,4
+QCAF1AA,5,5
+QCAF1AA,6,6
+QCAF1AA,7,7
+QCAF1AA,8,8
+QCAF1AA,9,9
+QCAF1AA,10,Top  priority  10
+QCAF1AA,99,Don't Know/  Refused
+QCAF1AB,1,Not a  priority  1
+QCAF1AB,2,2
+QCAF1AB,3,3
+QCAF1AB,4,4
+QCAF1AB,5,5
+QCAF1AB,6,6
+QCAF1AB,7,7
+QCAF1AB,8,8
+QCAF1AB,9,9
+QCAF1AB,10,Top  priority  10
+QCAF1AB,99,Don't Know/  Refused
+QCAF1BA,1,Not a  priority  1
+QCAF1BA,2,2
+QCAF1BA,3,3
+QCAF1BA,4,4
+QCAF1BA,5,5
+QCAF1BA,6,6
+QCAF1BA,7,7
+QCAF1BA,8,8
+QCAF1BA,9,9
+QCAF1BA,10,Top  priority  10
+QCAF1BA,99,Don't Know/  Refused
+QCAF1BB,1,Not a  priority  1
+QCAF1BB,2,2
+QCAF1BB,3,3
+QCAF1BB,4,4
+QCAF1BB,5,5
+QCAF1BB,6,6
+QCAF1BB,7,7
+QCAF1BB,8,8
+QCAF1BB,9,9
+QCAF1BB,10,Top  priority  10
+QCAF1BB,99,Don't Know/  Refused
+QCAF1CA,1,Not a  priority  1
+QCAF1CA,2,2
+QCAF1CA,3,3
+QCAF1CA,4,4
+QCAF1CA,5,5
+QCAF1CA,6,6
+QCAF1CA,7,7
+QCAF1CA,8,8
+QCAF1CA,9,9
+QCAF1CA,10,Top  priority  10
+QCAF1CA,99,Don't Know/  Refused
+QCAF1CB,1,Not a  priority  1
+QCAF1CB,2,2
+QCAF1CB,3,3
+QCAF1CB,4,4
+QCAF1CB,5,5
+QCAF1CB,6,6
+QCAF1CB,7,7
+QCAF1CB,8,8
+QCAF1CB,9,9
+QCAF1CB,10,Top  priority  10
+QCAF1CB,99,Don't Know/  Refused
+QCAF1DA,1,Not a  priority  1
+QCAF1DA,2,2
+QCAF1DA,3,3
+QCAF1DA,4,4
+QCAF1DA,5,5
+QCAF1DA,6,6
+QCAF1DA,7,7
+QCAF1DA,8,8
+QCAF1DA,9,9
+QCAF1DA,10,Top  priority  10
+QCAF1DA,99,Don't Know/  Refused
+QCAF1DB,1,Not a  priority  1
+QCAF1DB,2,2
+QCAF1DB,3,3
+QCAF1DB,4,4
+QCAF1DB,5,5
+QCAF1DB,6,6
+QCAF1DB,7,7
+QCAF1DB,8,8
+QCAF1DB,9,9
+QCAF1DB,10,Top  priority  10
+QCAF1DB,99,Don't Know/  Refused
+QCAF1EA,1,Not a  priority  1
+QCAF1EA,2,2
+QCAF1EA,3,3
+QCAF1EA,4,4
+QCAF1EA,5,5
+QCAF1EA,6,6
+QCAF1EA,7,7
+QCAF1EA,8,8
+QCAF1EA,9,9
+QCAF1EA,10,Top  priority  10
+QCAF1EA,99,Don't Know/  Refused
+QCAF1EB,1,Not a  priority  1
+QCAF1EB,2,2
+QCAF1EB,3,3
+QCAF1EB,4,4
+QCAF1EB,5,5
+QCAF1EB,6,6
+QCAF1EB,7,7
+QCAF1EB,8,8
+QCAF1EB,9,9
+QCAF1EB,10,Top  priority  10
+QCAF1EB,99,Don't Know/  Refused
+QCAF1FA,1,Not a  priority  1
+QCAF1FA,2,2
+QCAF1FA,3,3
+QCAF1FA,4,4
+QCAF1FA,5,5
+QCAF1FA,6,6
+QCAF1FA,7,7
+QCAF1FA,8,8
+QCAF1FA,9,9
+QCAF1FA,10,Top  priority  10
+QCAF1FA,99,Don't Know/  Refused
+QCAF1FB,1,Not a  priority  1
+QCAF1FB,2,2
+QCAF1FB,3,3
+QCAF1FB,4,4
+QCAF1FB,5,5
+QCAF1FB,6,6
+QCAF1FB,7,7
+QCAF1FB,8,8
+QCAF1FB,9,9
+QCAF1FB,10,Top  priority  10
+QCAF1FB,99,Don't Know/  Refused
+QCAF1GA,1,Not a  priority  1
+QCAF1GA,2,2
+QCAF1GA,3,3
+QCAF1GA,4,4
+QCAF1GA,5,5
+QCAF1GA,6,6
+QCAF1GA,7,7
+QCAF1GA,8,8
+QCAF1GA,9,9
+QCAF1GA,10,Top  priority  10
+QCAF1GA,99,Don't Know/  Refused
+QCAF1GB,1,Not a  priority  1
+QCAF1GB,2,2
+QCAF1GB,3,3
+QCAF1GB,4,4
+QCAF1GB,5,5
+QCAF1GB,6,6
+QCAF1GB,7,7
+QCAF1GB,8,8
+QCAF1GB,9,9
+QCAF1GB,10,Top  priority  10
+QCAF1GB,99,Don't Know/  Refused
+QCAF1HA,1,Not a  priority  1
+QCAF1HA,2,2
+QCAF1HA,3,3
+QCAF1HA,4,4
+QCAF1HA,5,5
+QCAF1HA,6,6
+QCAF1HA,7,7
+QCAF1HA,8,8
+QCAF1HA,9,9
+QCAF1HA,10,Top  priority  10
+QCAF1HA,99,Don't Know/  Refused
+QCAF1HB,1,Not a  priority  1
+QCAF1HB,2,2
+QCAF1HB,3,3
+QCAF1HB,4,4
+QCAF1HB,5,5
+QCAF1HB,6,6
+QCAF1HB,7,7
+QCAF1HB,8,8
+QCAF1HB,9,9
+QCAF1HB,10,Top  priority  10
+QCAF1HB,99,Don't Know/  Refused
+QCAF1IA,1,Not a  priority  1
+QCAF1IA,2,2
+QCAF1IA,3,3
+QCAF1IA,4,4
+QCAF1IA,5,5
+QCAF1IA,6,6
+QCAF1IA,7,7
+QCAF1IA,8,8
+QCAF1IA,9,9
+QCAF1IA,10,Top  priority  10
+QCAF1IA,99,Don't Know/  Refused
+QCAF1IB,1,Not a  priority  1
+QCAF1IB,2,2
+QCAF1IB,3,3
+QCAF1IB,4,4
+QCAF1IB,5,5
+QCAF1IB,6,6
+QCAF1IB,7,7
+QCAF1IB,8,8
+QCAF1IB,9,9
+QCAF1IB,10,Top  priority  10
+QCAF1IB,99,Don't Know/  Refused
+H1,1,Own your home
+H1,2,Rent your home
+H1,3,Neither own nor rent your home
+H1,9,Don't know/Refuse
+QD1,9999,Refused
+QD2,1,18 to 24
+QD2,2,25 to 34
+QD2,3,35 to 44
+QD2,4,45 to 54
+QD2,5,55 to 64
+QD2,6,65 or older
+QD2,99,Refused
+QD3,1,Grade 8 or less
+QD3,2,Some high school
+QD3,3,High School diploma or equivalent
+QD3,4,Registered Apprenticeship or other trades certificate or dip
+QD3,5,"College, CEGEP or other non-university certificate or diplom"
+QD3,6,University certificate or diploma below bachelor's level
+QD3,7,Bachelor's degree
+QD3,8,Post graduate degree above bachelor's level
+QD3,99,Refused
+QD4,1,"Working full-time, that is, 35 or more hours per week"
+QD4,2,"Working part-time, that is, less than 35 hours per week"
+QD4,3,Self-employed
+QD4,4,"Unemployed, but looking for work"
+QD4,5,A student attending school full-time
+QD4,6,Retired
+QD4,7,"Not in the workforce (full-time homemaker, unemployed, not l"
+QD4,8,(DO NOT READ) Other Ð (DO NOT SPECIFY)
+QD4,9,Refused
+QD5,1,"Under $20,000"
+QD5,2,"$20,000 to just under $40,000"
+QD5,3,"$40,000 to just under $60,000"
+QD5,4,"$60,000 to just under $80,000"
+QD5,5,"$80,000 to just under $100,000"
+QD5,6,"$100,000 to just under $150,000"
+QD5,7,"$150,000 and above"
+QD5,9a,Refused
+QD6,1,Yes
+QD6,2,No
+QD6,9,Refused
+QD7A,1,Yes
+QD7A,2,No
+QD7A,9,Refused
+QD7B,1,Yes
+QD7B,2,No
+QD7B,9,Refused
+QD7C,1,Yes
+QD7C,2,No
+QD7C,9,Refused
+QD7D,1,Yes
+QD7D,2,No
+QD7D,9,Refused
+QD8,1,Yes
+QD8,2,No
+QD8,9,Refused
+QD9,9999,Refused
+QD12,1,Yes
+QD12,2,No
+QD12,9,Refused
+FSA_OPEN,1,Please specify :
+FSA_OPEN,999,Refused
