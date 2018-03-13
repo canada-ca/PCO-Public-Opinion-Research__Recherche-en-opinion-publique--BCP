@@ -6,6 +6,7 @@ trademark law and copyright law. No permission is granted to use them outside th
 of the Government of Canada's corporate identity program. For more information, see
 http://www.tbs-sct.gc.ca/fip-pcim/index-eng.asp
 
+Example files copyright notice http://www.bac-lac.gc.ca/eng/Pages/terms-and-conditions.aspx
 
 MIT License
 
