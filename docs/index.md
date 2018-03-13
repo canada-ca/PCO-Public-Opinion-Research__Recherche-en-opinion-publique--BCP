@@ -12,14 +12,14 @@
 
 ### 030-16
 
-- [Report](../final/030-16-e/reportwordacout.html)
-- [Summary](../final/030-16-e/summarywordacout.html)
-- [Rapport](../final/030-16-f/rapportwordacout.html)
-- [Sommaire](../final/030-16-f/sommairewordacout.html)
+- [Report](final/030-16-e/reportwordacout.html)
+- [Summary](final/030-16-e/summarywordacout.html)
+- [Rapport](final/030-16-f/rapportwordacout.html)
+- [Sommaire](final/030-16-f/sommairewordacout.html)
 
 ### 081-16
 
-- [Report](../final/030-16-e/reportwordacout.html)
-- [Summary](../final/030-16-e/summarywordacout.html)
-- [Rapport](../final/030-16-f/rapportwordacout.html)
-- [Sommaire](../final/030-16-f/sommairewordacout.html)
+- [Report](final/081-16-e/reportwordacout.html)
+- [Summary](final/081-16-e/summarywordacout.html)
+- [Rapport](final/081-16-f/rapportwordacout.html)
+- [Sommaire](final/081-16-f/sommairewordacout.html)
