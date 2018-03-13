@@ -6,4 +6,6 @@ Documentation of a process that can be used by GC teams to convert POR report fi
 
 This initial effort is in English. Once complete, translation into French for future users and developers.
 
+[Documentation of the process and results](https://canada-ca.github.io/PCO-Public-Opinion-Research__Recherche-en-opinion-publique--BCP/)
+
 Any questions can be directed to: consultation@pco-bcp.gc.ca
