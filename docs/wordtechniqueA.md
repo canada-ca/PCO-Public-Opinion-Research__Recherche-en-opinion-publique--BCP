@@ -7,24 +7,24 @@ It easier to use Word to make much of the improvement to accessibility. There is
 The following images show the steps:
 - Open the file
 
-![Open the file](images/updateworddocument-1.png)
+![Open the file](images/1-updateworddocument-1.png)
 
 - Upgrade the file using the Compatibility Button
 
-![use the Compatibility Button](images/updateworddocument-2.png)
+![use the Compatibility Button](images/1-updateworddocument-2.png)
 
-![verify upgrade desired](images/updateworddocument-3.png)
+![verify upgrade desired](images/1-updateworddocument-3.png)
 
-![verify accessibility checker is working](images/updateworddocument-4.png)
+![verify accessibility checker is working](images/1-updateworddocument-4.png)
 
 - Save the file to the "intermediate" folder to hold working files
 
-![Save the file to the "intermediate" folder](images/updateworddocument-5.png)
+![Save the file to the "intermediate" folder](images/1-updateworddocument-5.png)
 
 - Add the suffix "word" to the filename to keep it distinct
 
-![use the Compatibility Button](images/updateworddocument-6.png)
+![use the Compatibility Button](images/1-updateworddocument-6.png)
 
 -  and acknowledge that is finished **Technique A** by the accessibility checker working.
 
-![accessibility checker working](images/updateworddocument-7.png)
+![accessibility checker working](images/1-updateworddocument-7.png)
