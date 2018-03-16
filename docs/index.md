@@ -11,6 +11,11 @@
 ## Word techniques
 
 - [Technique A: Upgrade](wordtechniqueA.md)
+- [Technique K: Embedded Content extraction](embeddedcontent.md)
+- [Technique C: Alt Text and text in shapes](accessibilitypart1.md)
+- [Technique D: Adding titles to the table properties](accessibilitypart2.md)
+- [Blank character warnings](accessibilitypart3.md)
+- [Technique F: Numbered Headings](accessibilitypart4.md)
 
 ## Final Results
 
