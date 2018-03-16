@@ -8,6 +8,10 @@
 
 ## [Approach](approach.md)
 
+## Word techniques
+
+- [Technique A: Upgrade](wordtechniqueA.md)
+
 ## Final Results
 
 ### 030-16
