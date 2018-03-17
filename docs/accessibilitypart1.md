@@ -8,6 +8,11 @@ Here are some typical operations from the sample project file:
 
 ![delete Object](images/3-accessibilitypart1-1.png)
 
+- just delete decorative images
+
+    - You may encounter images of little value when processing for the archive such as stock photos.  Rather than adding alt text describing a happy survey analyst, just delete the image from the word document.
+    - the other approach is to have empty alt text.  You actually may have to actually enter blanks!  The interpretation of screen readers would be decorative image; what else can they say.
+    
 - use the accessibility checker to move to the next picture and repair the Alt Text.
 
 ![edit Alt Text on Logo](images/3-accessibilitypart1-2.png)
