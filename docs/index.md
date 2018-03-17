@@ -24,7 +24,11 @@
 
 ## [WAVE test tool](wavetest.md)
 
+## [Technique E: Throw up your hands](nogoodsolutions.md)
+
 ## Final Results
+
+[What was done to each file](whatwasdone.md)
 
 ### 030-16
 
